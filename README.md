@@ -5,17 +5,17 @@
 Döntse el melyik feladatnál milyen adattípust kell használni. A bekérés legyen felhasználóbarát! A felhasználót segítse a mértékegység megadásával vagy a bekérési minta megadásával! Készítse el a programot!
 
 1. feladat  
-FogyasztasProjekt    
+ConsumptionProject       
 Írjon programot, amely bekéri egy autó fogyasztását (liter/100 km)! 
 2. feladat   
-TestverekSzamaProjekt    
+NumberOfSiblingsProjects    
 Írjon program, amely bekéri egy diák testvéreinek számát (db)!   
 3. feladat   
-EretsegiAtlagProjekt   
+GraduationAverageProject    
 Írjon programot, amely bekéri egy diák érettségi átlagát két tizedes jegy pontossággal!   
 4. feladat   
-DiakAdataiProjekt   
+StudentDetailsProject   
 Írjon programot, amely bekéri egy diák magasságát (cm)!   
 5. feladat   
-OsztalyAzonositoProjekt   
+ClassIdentificationProject    
 Írjon programot, amely bekéri egy diák egy adott évfolyamon melyik osztályba jár (’a’, vagy ’b’, vagy ’c’)!   
