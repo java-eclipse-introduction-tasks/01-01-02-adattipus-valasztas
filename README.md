@@ -5,7 +5,7 @@
 Döntse el melyik feladatnál milyen adattípust kell használni. A bekérés legyen felhasználóbarát! A felhasználót segítse a mértékegység megadásával vagy a bekérési minta megadásával! Készítse el a programot!
 
 1. feladat  
-ConsumptionProject       
+CarConsumptionProject       
 Írjon programot, amely bekéri egy autó fogyasztását (liter/100 km)! 
 2. feladat   
 NumberOfSiblingsProjects    
